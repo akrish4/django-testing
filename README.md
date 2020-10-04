@@ -1,2 +1,2 @@
-# django-tessting
+# django-testing
 testing for django development
